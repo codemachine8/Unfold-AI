@@ -1,22 +1,25 @@
 # Unfold-AI
 <h2 style="text-align:center"><span style="font-size:24px"><a href="http://unfoldai.io/">Unfold AI: </a>First-of-its-kind Generative AI Assistant | ChatGPT extension for VSCode</span></h2>
 
-<p><span style="font-size:16px">Unfold AI is a free and highly advanced platform for smarter development workflows. It can magically&nbsp;🪄&nbsp; find and fix errors and bugs, improve your code, help you test it, and secure it.&nbsp;</span></p>
+<p><span style="font-size:16px">Unfold AI is a free and highly advanced platform for smarter development workflows. It can magically&nbsp;🪄&nbsp; find and fix errors and bugs, improve your code, help you test it, and secure it.&nbsp;</span>🤖</p>
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><span style="font-size:22px"><span style="color:#8e44ad"><strong>Good news! Sign up now for a free 🎁! First 100K users get full, no-API-key-needed access to our upcoming chatGPT version and automated error &amp; bug fixes, all free.&nbsp;</strong></span></span></p>
+<p style="text-align:center"><span style="font-size:20px"><span style="color:#8e44ad"><strong>Update: First 100K registered users will receive full access to our upcoming testing version &quot;Unfold AI Pro&quot;, with no API key required, along with automated error &amp; bug fixes.</strong></span></span></p>
 
-<p>&nbsp;</p>
+<p style="text-align:center">&nbsp;</p>
 
 <p><span style="font-size:18px"><strong>Features:</strong></span></p>
 
 <ul>
-	<li>🧬 Code Generation</li>
-	<li>🧐 Code Review</li>
-	<li>🛠 Code Improvements</li>
-	<li>🌐 Natural Language to Code Conversion</li>
-	<li>🚫 Automatic Error and Bug Solutions (Coming to Mac &amp; Linux soon)</li>
+	<li>🧬 Code Generation: Quickly turn ideas into workable code.</li>
+	<li>🧐 Code Review: Examine code for issues and best practices.</li>
+	<li>🛠 Code Improvements: Refactor and optimize for better efficiency.</li>
+	<li>🧪 Add Tests: Develop tests to ensure code stability.</li>
+	<li>🌐 Natural Language to Code: Convert spoken or written words into code.</li>
+	<li>🚫 Auto Error Corrections: Identify and fix coding mistakes automatically.</li>
+	<li>🖋 Add Comments: Add clear notes to explain code sections.</li>
+	<li>💡 Explain: Break down complex code for easier understanding.</li>
 	<li>And so much more!</li>
 </ul>
 
@@ -26,7 +29,9 @@
 
 <p style="text-align:center">&nbsp;</p>
 
-<p style="text-align:center"><img src="https://unfoldai.io/wp-content/uploads/2023/07/unfoldaimaingif.gif" /></p>
+<p style="text-align:center"><strong>Automatic Errors Detection</strong></p>
+
+<p style="text-align:center"><img src="https://unfoldai.io/wp-content/uploads/2023/08/unfold-ai-automatic-error-solution-gif.gif" /></p>
 
 <p style="text-align:center">&nbsp;</p>
 
@@ -48,32 +53,38 @@
 
 <p>&nbsp;</p>
 
-<p><strong>Click &#39;Unfold output error&#39; after triggering an error in your terminal to let the extension gather vital data, process it with AI, and show a solution in the UI Terminal. Only use this button when an error happens in the terminal.</strong></p>
+<p><strong>Find Problems in Your Code:&nbsp;Code flawlessly with the &lsquo;Find Problems&rsquo; feature: Detect and solve code issues seamlessly</strong></p>
 
-<p><img alt="" src="https://unfoldai.io/wp-content/uploads/2023/07/1-3.png" /></p>
-
-<p>&nbsp;</p>
-
-<p><strong>Automatic errors detection: The feature functions as a terminal monitor, capable of detecting errors and offering automated solutions.</strong></p>
-
-<p><img alt="" src="https://unfoldai.io/wp-content/uploads/2023/07/2-3.png" /></p>
+<p><img alt="" src="https://unfoldai.io/wp-content/uploads/2023/08/unfold-ai-find-problems-gif.gif" /></p>
 
 <p>&nbsp;</p>
 
-<p><strong>Ask the model anything you want, whether you need help understanding your code, have general questions, or want it to write better code for you.</strong></p>
+<p><strong>Complete Code:&nbsp;Enhance your coding speed with intelligent code completion for a seamless programming experience.</strong></p>
 
-<p><img alt="" src="https://unfoldai.io/wp-content/uploads/2023/07/3-3.png" /></p>
+<p><img alt="" src="https://unfoldai.io/wp-content/uploads/2023/08/unfold-ai-complete-code-gif.gif" /></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Manual Error Solutions</strong></p>
+
+<p><img alt="" src="https://unfoldai.io/wp-content/uploads/2023/08/unfold-ai-manual-solution-gif.gif" /></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Freestyle use</strong></p>
+
+<p><img alt="" src="https://unfoldai.io/wp-content/uploads/2023/08/unfold-ai-freestyle-use-gif-1.gif" /></p>
 
 <p>&nbsp;</p>
 
 <h2>Unfold AI Features:</h2>
 
 <ul>
-	<li><strong>Unfold Error Solution</strong> - Trigger an error in your terminal and click the &#39;Unfold Error Solution&#39; button. The extension will collect necessary information and parameters, process them with the AI model, and present a solution in the UI Terminal. Use this button only when an error occurs in the terminal.</li>
-	<li><strong>Automatic Detection Of Errors</strong> - The feature functions as a terminal monitor, capable of detecting errors and offering automated solutions.</li>
-	<li><strong>Freestyle&nbsp;</strong><strong>ChatGPT</strong> - Ask the model anything you want, whether you need help understanding your code, have general questions, or want it to write better code for you.</li>
+	<li><strong>Unfold Error Solution</strong> - Trigger an error in your terminal and click the &#39;Unfold Error Solution&#39; button. The extension will collect necessary information and parameters, process them with the AI model, and present a solution in the chat box. Use this button only when an error occurs in the terminal.</li>
+	<li><strong>Automatic Detection Of Errors</strong> - The feature functions as a terminal monitor, capable of detecting errors and offering automated solutions. Errors in the tracked terminal will automatically trigger solution requests, displayed in the chat in real-time.</li>
+	<li><strong>Freestyle&nbsp;</strong><strong>ChatGPT</strong> - Ask the model anything you want, whether you need help to understand your code, have general questions, or want it to write better code for you.</li>
+	<li><strong>Rapid Coding&nbsp;Shortcuts: </strong>Add tests, Optimize, Explain, Add comments, Complete code &amp; Find problems.</li>
 	<li><strong>Show Aggregate Solutions</strong> - View comprehensive solutions by viewing your log history.</li>
-	<li><strong>Attach Code</strong> - Use the &#39;Attach Code&#39; button in the VS Code toolbar to add a code snippet that could be causing an error. This helps the AI model get a clearer understanding of the issue for more precise solutions. For best results, use both &#39;Attach Code&#39; and &#39;Unfold Error Solution&#39; buttons together.</li>
 </ul>
 
 <p>&nbsp;</p>
