@@ -1,13 +1,21 @@
-# Unfold-AI
 <h2 style="text-align:center"><span style="font-size:24px"><a href="http://unfoldai.io/">Unfold AI: </a>First-of-its-kind Generative AI Assistant | ChatGPT extension for VSCode</span></h2>
 
-<p><span style="font-size:16px">Unfold AI is a free and highly advanced platform for smarter development workflows. It can magically&nbsp;🪄&nbsp; find and fix errors and bugs, improve your code, help you test it, and secure it.&nbsp;</span>🤖</p>
+<p><span style="font-size:16px">Unfold AI is a free and highly advanced platform for smarter development workflows. It can magically&nbsp;🪄&nbsp; find and fix errors and bugs, improve your code, help you test it, and secure it. We are your ultimate debugging assistant.&nbsp;</span>🤖</p>
 
 <p>&nbsp;</p>
 
-<p style="text-align:center"><span style="font-size:20px"><span style="color:#8e44ad"><strong>Update: First 100K registered users will receive full access to our upcoming testing version &quot;Unfold AI Pro&quot;, with no API key required, along with automated error &amp; bug fixes.</strong></span></span></p>
+<p style="text-align:center"><span style="font-size:20px"><span style="color:#8e44ad"><strong>Update 2024:</strong></span><span style="color:#f1c40f"><strong> Unfold AI Pro</strong></span><span style="color:#8e44ad"><strong>&nbsp;is Finally Available! No API key is required. It offers full codebase model training, advanced features, and automated error and bug fixes.</strong></span></span></p>
 
-<p style="text-align:center">&nbsp;</p>
+<p style="text-align:center"><span style="font-size:18px"><span style="color:#8e44ad"><strong>(First 5,000 Users Get a Special&nbsp;</strong></span>🎁<span style="color:#8e44ad"><strong> From Us</strong></span><span style="color:#8e44ad"><strong>)</strong></span></span></p>
+
+<p style="text-align:center"><br />
+<strong>Coming soon to PyCharm and expanding to more operating systems &mdash; be the first to know:</strong></p>
+
+<p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZlNjPSlFsZxOwoOzJktd4bHjZCbqyDZSKoF53rBP0TxBQXg/viewform" style="text-align:center;display: inline-block; background: none; font-size: 16px; color: black; text-decoration: underline; text-shadow: 0 0 11px rgba(137, 1, 162, 0.60), 0 0 22px rgba(137, 1, 162, 0.60); cursor: pointer; outline: none; transition: all 0.2s ease-in-out; padding: 0; margin: 0;">Join Unfold AI Waiting List</a></p>
+
+<p style="text-align:center"><a href="https://discord.gg/MQXNYWs2" style="text-align:center;display: inline-block; background: none; font-size: 16px; color: black; text-decoration: underline; text-shadow: 0 0 11px rgba(137, 1, 162, 0.60), 0 0 22px rgba(137, 1, 162, 0.60); cursor: pointer; outline: none; transition: all 0.2s ease-in-out; padding: 0; margin: 0;">Join our Discord Community</a></p>
+
+<p>&nbsp;</p>
 
 <p><span style="font-size:18px"><strong>Features:</strong></span></p>
 
@@ -20,6 +28,7 @@
 	<li>🚫 Auto Error Corrections: Identify and fix coding mistakes automatically.</li>
 	<li>🖋 Add Comments: Add clear notes to explain code sections.</li>
 	<li>💡 Explain: Break down complex code for easier understanding.</li>
+	<li>🔍 Train on Entire Codebase: Customize the model by training it on your specific codebase for tailored solutions and suggestions.</li>
 	<li>And so much more!</li>
 </ul>
 
@@ -35,7 +44,13 @@
 
 <p style="text-align:center">&nbsp;</p>
 
-<p><span style="font-size:18px"><strong>Why we are different?</strong></span></p>
+<p style="text-align:center"><strong>Train on Entire Codebase</strong></p>
+
+<p style="text-align:center"><img src="https://unfoldai.io/wp-content/uploads/2024/01/codebasetrain.gif" /></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p><span style="font-size:18px"><strong>Why are we different?</strong></span></p>
 
 <p>Unfold AI&#39;s key differentiator lies in its smart tracking of the terminal, offering advanced code analysis, real-time error detection, and insightful suggestions for enhancements&mdash;all right within your editor.</p>
 
@@ -81,10 +96,19 @@
 
 <ul>
 	<li><strong>Unfold Error Solution</strong> - Trigger an error in your terminal and click the &#39;Unfold Error Solution&#39; button. The extension will collect necessary information and parameters, process them with the AI model, and present a solution in the chat box. Use this button only when an error occurs in the terminal.</li>
-	<li><strong>Automatic Detection Of Errors</strong> - The feature functions as a terminal monitor, capable of detecting errors and offering automated solutions. Errors in the tracked terminal will automatically trigger solution requests, displayed in the chat in real-time.</li>
+	<li><strong>Automatic Detection Of Errors</strong> - The feature functions as a terminal monitor, capable of detecting errors and offering automated solutions. Errors in the monitored terminal will automatically trigger solution requests, displayed in the chat in real-time.</li>
+	<li><strong>Train on Entire Codebase:</strong> Customize the model by training it on your specific codebase for tailored solutions and suggestions.</li>
 	<li><strong>Freestyle&nbsp;</strong><strong>ChatGPT</strong> - Ask the model anything you want, whether you need help to understand your code, have general questions, or want it to write better code for you.</li>
 	<li><strong>Rapid Coding&nbsp;Shortcuts: </strong>Add tests, Optimize, Explain, Add comments, Complete code &amp; Find problems.</li>
 	<li><strong>Show Aggregate Solutions</strong> - View comprehensive solutions by viewing your log history.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2>Unfold AI Documentation:</h2>
+
+<ul>
+	<li><a href="https://docs.unfoldai.io/">Click here to access our docs</a></li>
 </ul>
 
 <p>&nbsp;</p>
@@ -103,7 +127,7 @@
 
 <p>&nbsp;</p>
 
-<p>*Unfold AI extension is absolutely <strong>FREE</strong>, but certain artificial intelligence provider APIs it uses may require payment. Please refer to the app&#39;s installation instructions for further details.</p>
+<p>*Unfold AI extension has&nbsp;<strong>FREE and Paid plans</strong>, but certain artificial intelligence provider APIs it uses may require payment. Please refer to the app&#39;s installation instructions for further details.</p>
 
 <p>&nbsp;</p>
 
