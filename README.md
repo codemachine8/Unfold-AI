@@ -40,13 +40,13 @@
 
 <p style="text-align:center"><strong>Automatic Errors Detection</strong></p>
 
-<p style="text-align:center"><img src="https://unfoldai.io/wp-content/uploads/2023/08/unfold-ai-automatic-error-solution-gif.gif" /></p>
+<p ><img alt="" src="https://unfoldai.io/wp-content/uploads/2023/08/unfold-ai-automatic-error-solution-gif.gif" /></p>
 
 <p style="text-align:center">&nbsp;</p>
 
 <p style="text-align:center"><strong>Train on Entire Codebase</strong></p>
 
-<p style="text-align:center"><img src="https://unfoldai.io/wp-content/uploads/2024/01/codebasetrain.gif" /></p>
+<p ><img alt="" src="https://unfoldai.io/wp-content/uploads/2024/01/codebasetrain.gif" /></p>
 
 <p style="text-align:center">&nbsp;</p>
 
