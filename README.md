@@ -88,6 +88,6 @@
 
 <p>For more information &amp; to join our community visit <a href="https://unfoldai.io/">unfoldai.io</a></p>
 
-<p><a href="https://discord.gg/MQXNYWs2">Join our Discord Community</a></p>
+<p><a href="https://discord.gg/NMyBPAXGWE">Join our Discord Community</a></p>
 
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdZlNjPSlFsZxOwoOzJktd4bHjZCbqyDZSKoF53rBP0TxBQXg/viewform">Join Unfold AI Pro 2.0 Waiting&nbsp;List</a></p>
