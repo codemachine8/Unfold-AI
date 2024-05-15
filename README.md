@@ -11,7 +11,7 @@
 <p><strong>Features:</strong></p>
 
 <ul>
-	<li>🖥 Terminal Auto Error Corrections: Integrated smart assistant in PowerShell Terminals ti Identify and fix coding mistakes automatically.</li>
+	<li>🖥 Terminal Auto Error Corrections: Integrated smart assistant in PowerShell Terminals to Identify and fix coding mistakes automatically.</li>
 	<li>🔍 Train Model on Entire Codebase: Customize the model by training it on your specific codebase for tailored solutions and suggestions.</li>
 	<li>🧬 Code Generation: Quickly turn ideas into workable code.</li>
 	<li>🧐 Code Review: Examine code for issues and best practices.</li>
@@ -35,7 +35,7 @@
 
 <p><strong>Why we are different?</strong></p>
 
-<p>Unfold AI&#39;s key differentiator lies in its smart tracking of the terminal, offering advanced code analysis, real-time error detection, and insightful suggestions for enhancements&mdash;all right within your editor.</p>
+<p>Unfold AI&#39;s key differentiator lies in its smart tracking of the terminal, offering advanced code analysis, real-time error detection, and insightful suggestions for enhancements&mdash; all right within your editor.</p>
 
 <p>With Unfold AI&#39;s intuitive terminal assistance, coding becomes a breeze, leading to higher code quality and quicker development. Say goodbye to tedious debugging and welcome the seamless experience of Unfold AI, elevating your coding efficiency to new heights.</p>
 
@@ -82,7 +82,7 @@
 
 <h2>Store your API key securely:</h2>
 
-<p>Your API key is securely saved for your peace of mind in a .env file locally and will not be shared to anyone.</p>
+<p>Your API key is securely saved for your peace of mind in a .env file locally and will not be shared with anyone.</p>
 
 <p>*Unfold AI extension is absolutely <strong>FREE</strong>, but certain artificial intelligence provider APIs it uses may require payment. Please refer to the app&#39;s installation instructions for further details.</p>
 
