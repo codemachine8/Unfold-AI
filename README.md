@@ -8,7 +8,7 @@
 
 <p>&nbsp;</p>
 
-<p><strong>Features:</strong></p>
+<p><strong>Features:</strong></p> 
 
 <ul>
 	<li>🖥 Terminal Auto Error Corrections: Integrated smart assistant in PowerShell Terminals to Identify and fix coding mistakes automatically.</li>
