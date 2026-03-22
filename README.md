@@ -101,7 +101,7 @@ UnfoldAI is useful even when you never click an AI action. The safety net runs i
 **Silent checkpoints** snapshot your dependency state before risky operations. If something breaks, restore with one click — no manual git stashing.
 
 <p align="center">
-  <img src="https://i.imgur.com/mVS9B83.png" alt="UnfoldAI — drift detection and dependency alerts on the dashboard" width="100%">
+  <img src="https://i.imgur.com/mVS9B83.png" alt="UnfoldAI — drift detection and dependency alerts on the dashboard" width="400">
 </p>
 
 
@@ -144,7 +144,7 @@ Before you merge agent-heavy work, UnfoldAI summarizes what actually happened in
 - **Clear** resets the pre-commit scope when you start a new cycle, without losing session history.
 
 <p align="center">
-  <img src="https://i.imgur.com/mFWpTSn.png" alt="UnfoldAI Pre-commit Summary — risk scoring, AI commit message, Use in Commit" width="100%">
+  <img src="https://i.imgur.com/mFWpTSn.png" alt="UnfoldAI Pre-commit Summary — risk scoring, AI commit message, Use in Commit" width="400">
 </p>
 
 ---
